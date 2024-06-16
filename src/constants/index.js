@@ -23,6 +23,23 @@ export const EXPERIENCES = [
   },
 ];
 
+export const EDUCATION = [
+  {
+    year: "July 2022 - May 2024",
+    role: "M.Sc Information Technology",
+    company: "DA-IICT",
+    description: "Subjects : C++, Java, OOPs, DBMS, Web Development, Cloud Computing, System Programming, Computer Networks, SDLC",
+    technologies: [],
+  },
+  {
+    year: "August 2019 - July 2022",
+    role: "B.Sc(Hons) Chemistry",
+    company: "Hansraj College, University of Delhi",
+    description: "Subjects : Computational Chemistry, Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Thinking",
+    technologies: [],
+  },
+];
+
 export const PROJECTS = [
   {
     title: "E-Commerce Website",
